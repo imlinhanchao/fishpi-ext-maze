@@ -1,0 +1,21 @@
+{
+  "name": "maze",
+  "publisher": "hancel",
+  "version": "1.0.0",
+  "displayName": "迷宫游戏",
+  "description": "摸鱼迷宫游戏",
+  "private": true,
+  "main": "extension/index.js",
+  "author": "Hancel.Lin",
+  "repository": "https://github.com/imlinhanchao/fishpi-ext-maze",
+  "scripts": {
+  },
+  "fishpi": {
+    "type": "extension",
+    "icon": "public/icon.png"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
